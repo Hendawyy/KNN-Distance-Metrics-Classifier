@@ -14,7 +14,7 @@ Before running the code, ensure you have the following libraries installed:
 ### Usage
 Clone the repository:
 ```
-git clone https://github.com/your-username/KNN-Distance-Metrics-Classifier.git
+git clone https://github.com/Hendawyy/KNN-Distance-Metrics-Classifier.git
 cd KNN-Distance-Metrics-Classifier
 ```
 Run the Jupyter Notebook or Python script to execute the KNN classifier with different distance metrics and analyze the results.
